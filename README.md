@@ -1,5 +1,5 @@
 # 💫 About Me:
-😊 I’m Currently Pursuing Engineering.🧑‍🎓<br>💻 I’m learning coding and web development.💻<br>🌿 I am still learning new things and about new technologies.🌿<br>🍔 Foodie.🍩<br>💻 Programming languages: C , Java , Python , HTML , CSS , JavaScript.💻<br>❤️ How to reach me: https://www.facebook.com/soumyadeep.sinha.5015.❤️<br>😉 Pronouns: He/His.🌿<br>😎 Fun fact: Volleyball champion at school.🏐
+😊 I’m Currently Pursuing Engineering.🧑‍🎓<br>💻 I’m learning coding and web development.💻<br>🌿 I am still learning new things and about new technologies.🌿<br>🍔 Foodie.🍩<br>💻 Programming languages: C , Java , Python , HTML , CSS , JavaScript and C++.💻<br>❤️ How to reach me: https://www.facebook.com/soumyadeep.sinha.5015.❤️<br>😉 Pronouns: He/His.🌿<br>😎 Fun fact: Volleyball champion at school.🏐
 
 
 ## 🌐 Socials:
